@@ -4,8 +4,8 @@
 
 官网：https://tiger-code.com
 
-虎码教程：[虎码教程PDF](./虎码输入法教程.pdf)
+教程：[PDF](./虎码输入法教程.pdf)
 
-更新日志：[更新日志](./更新日志.txt)
+更新日志：[TXT](./更新日志.txt)
 
 官方网盘：[网盘地址](http://huma.ysepan.com/)
